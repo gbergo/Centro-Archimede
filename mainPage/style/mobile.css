@@ -1,0 +1,214 @@
+
+#header{
+	width: 100%;
+
+}
+#contenutoHeader{
+	font-size: 75%;
+	width: 95%;
+	text-align: center;
+	margin-left: 5%;
+}
+#menu{
+	width: 100%;
+	font-size: 100%;
+}
+#menu li {
+	width: 100%;
+}
+#menu li a{
+	padding: 10px 0em 10px 0em;
+}
+
+
+#content{
+	width: 100%;
+	margin: 0em;
+}
+
+#content h2{
+	font-size: 1.25em;
+	margin-bottom: 2%;
+}
+
+#contentRight{
+	float: none;
+	text-align: center;
+	width: 90%;
+	font-size: 0.9em;
+	border: 0px;
+
+}
+#contentLeft{
+	border: 0px;
+	width: 90%;
+	margin: 5%;
+
+}
+#contentLeft h2{
+	margin-top:0em;
+	padding-top: 0em;
+}
+#casella{
+	display: none;
+}
+
+#promozione li{
+	width: 45%;
+	font-size: 0.8em;
+	margin: 1.5%;
+}
+
+#area_amministrazione{
+	width: 70%;
+	margin: 0% 15% 0% 15%;
+}
+
+
+#footer{
+	font-size: 1em;
+}
+
+#footerMenu ul{
+	max-width: 100%;
+	margin: 0em;
+}
+
+#footerMenu li {
+	width: 100%;	
+	font-size: 1em;
+}
+
+#footerMenu li  a{
+	padding: 10px 0px 10px 0px;
+}
+#footer h3{
+	font-size: 0.9em;
+}
+
+#logoFooter{
+	width: 20%;
+}
+
+#area_amm li{
+display: none;
+}
+
+#intestazione{
+	font-size: 1.3em;
+}
+
+/*--------NEGOZIO-------*/
+#negozio li{
+	float: left;
+	width: 40%;
+	margin: 4%;
+}
+
+
+/*-------SINGOLO-NEGOZIO---------*/
+#content_negozio{
+	text-align: center;
+	
+}
+#logo_negozio{
+	width: 60%;
+	margin:0 20% 0 20%;
+	padding: 0em;
+}
+#contatti{
+	margin:0em;
+	padding: 0em;
+
+}
+#contatti h4{
+	font-weight: 600;
+	padding-top:0.5em;
+	text-transform: uppercase;
+	margin-bottom: 0.5em;
+}
+#informazioni{
+	width: 100%;
+	margin: auto;
+}
+#descrizione{
+	display: inline-block;
+	width: 100%;
+	margin: 0em;
+}
+
+#prodotto li{
+	width: 70%;
+	margin:5% 15% 5% 15%;
+
+}
+#prodotto img{
+	height: 15em;
+
+}
+.titolo_body{
+	font-size: 1.2em;
+}
+
+/*--------DOVE SIAMO--------*/
+
+
+#testoInformazioni{
+	width: 90%;
+	margin:5%;
+	padding:0em;
+}
+#testoInformazioni h3{
+	padding-top: 2%;
+}
+
+#imgMappa{
+	float: none;
+	margin:5%;
+	width: 90%;
+	padding: 0em;
+
+
+}
+
+/*------------CONTATTI-----------*/
+#fotoContatti{
+    width: 90%;
+    float:none;
+    margin:5%;
+    padding:0em;
+}
+
+
+
+/*-----PRODTTO-PROMOZIONE-------*/
+
+#imgPromozioneProdotto{
+	float: none;
+	width: 80%;
+	margin: 0% 10% 0% 10%;
+	display: inline-block;
+}
+#descrizioneProdottoPromozione h4{
+	display: inline-block;
+	width: 100%;
+}
+#descrizioneProdottoPromozione{
+	display: block;
+	text-align: center;
+	float:none;
+	margin:0em;
+	width: 80%;
+	margin: 0% 10% 0% 10%;
+
+}
+#date_inizio_fine{
+	text-align: center;
+	float: none;
+	width: 80%;
+	margin: 0% 10% 0% 10%;
+
+}
+
+
+

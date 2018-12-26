@@ -1,0 +1,116 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+	color:#000000;
+}
+#header
+{
+	margin-bottom: 0.3em;
+}
+
+#imgLogo{
+	display: none;
+}
+
+#breadcrumb{
+	font-size: 0.8em;
+	margin-bottom: 1em;
+}
+
+#menu{
+	display: none;
+}
+#contentRight ul{
+	margin-bottom: 0.3em;
+}
+
+#content h2,h3{
+	text-transform: uppercase;
+	font-size: 1em;
+	margin-top:0.3em;
+	margin-bottom: 0.3em;
+}
+
+#imgTorre{
+	display: none;
+}
+
+#area_amministrazione{
+	display: none;
+}
+
+#casella{
+	display: none;
+}
+
+#promozione li{
+	border:2px solid #000;
+	float: left;
+	width: 20%;
+	margin: 3%;
+	text-align: center;
+    list-style-type: none;
+    text-transform: uppercase;
+
+}
+
+#promozione a{
+	text-decoration: none;
+	background-color: #A52A2A;
+	color: black;
+	padding-bottom: 0.2em;
+	display: block;
+	font-size: 0.8em;
+}
+
+#promozione img{
+	width: 100%;
+}
+
+
+#footer{
+	display: none;
+}
+
+/*----NEGOZI----*/
+
+#negozio li{
+	border:2px solid #000;
+	float: left;
+	width: 20%;
+	margin: 2%;
+	text-align: center;
+    list-style-type: none;
+    text-transform: uppercase;
+
+}
+#negozio a{ 
+    text-decoration: none;
+	background-color: #A52A2A;
+	color: black;
+	padding-bottom: 0.2em;
+	display: block;
+} 
+#negozio img{ 
+  width:100%; 
+  float:left; 
+}
+
+/*----DOVE SIAMO---*/
+
+#imgMappa{
+	display: none;
+}
+
+#fotoContatti{
+	display: none;
+}
+ /*----PRODOTTO-PROMOZIONE----*/
+
+ #imgPromozioneProdotto{
+ 	display: none;
+ }
+
